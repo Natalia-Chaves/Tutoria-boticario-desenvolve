@@ -158,6 +158,11 @@ header h1, header p {
   h2 {
     font-size: 1.2em;
   }
+  article header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 2px;
+  }
 }
 
 /* ===================== */
