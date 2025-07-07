@@ -1,6 +1,6 @@
 # Projeto 1 - Página de Diário ✨
 
-Bem-vindo ao **Projeto 1 - Página de Diário**! Este projeto é uma página web estilizada com tema da Kuromi, feita para registrar e compartilhar entradas de diário de forma divertida, acessível e responsiva.
+Bem-vindo ao **Projeto 1 - Página de Diário**! Este projeto é uma página web estilizada com o tema da Kuromi, feita para registrar e compartilhar entradas de diário de forma divertida, acessível e responsiva.
 
 ![Kuromi](images/kuromi_principal.png)
 
